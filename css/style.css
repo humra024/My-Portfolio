@@ -377,7 +377,7 @@ body.offcanvas {
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
-    top: 1%;
+    top: 2%;
     -moz-transform: translateX(300px);
     -webkit-transform: translateX(300px);
     -ms-transform: translateX(300px);
@@ -1420,7 +1420,7 @@ body.offcanvas {
 .colorlib-nav-toggle {
   position: fixed;
   left: -5px;
-  top: 1%;
+  top: 2%;
   z-index: 9999;
   cursor: pointer;
   opacity: 1;

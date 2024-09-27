@@ -281,7 +281,10 @@ figure {
       @media screen and (max-width: 768px) {
         #colorlib-hero .flexslider .flex-control-nav {
           right: 20px;
-          top: 100px; } }
+          top: 100px; }
+        .container-fluid{
+          margin-top: 40%;
+        } }
       #colorlib-hero .flexslider .flex-control-nav li {
         display: block;
         margin-bottom: 10px; }
